@@ -1,0 +1,11 @@
+11 a .seven stages of visualization
+12.a . mapping .location and data
+12.b. two sided data ranges
+13.a.time series data->scenerio
+13.b.showing data as a area->begin shape ,end shape
+14.a.creating a tab 
+14.b.mouse input
+15.a.visualizing numeric and non numeric data
+15.b.regular rexpression
+16.a.smooth interpolation technique
+16.b.deployment issue in sophisticated

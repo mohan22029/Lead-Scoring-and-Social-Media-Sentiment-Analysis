@@ -1,0 +1,34 @@
+How to Create a Non-Ugly Figure
+
+Definitions
+Ugly: A figure classified as "ugly" typically suffers from aesthetic issues, yet it remains clear and informative. Problems may involve suboptimal color selections, cluttered labels, or unattractive layouts.
+
+Bad: Figures deemed "bad" encounter perceptual challenges. They can be confusing, overly intricate, misleading, or fail in effectively conveying the data's message.
+
+Wrong: A "wrong" figure is characterized by mathematical inaccuracies, misrepresenting data in a manner that is factually incorrect or deceiving.
+
+Problems:
+
+The color choice is harsh on the eyes.
+The use of markers is excessive and distracts from the overall trend.
+The aspect ratio doesn’t complement the data representation well.
+
+Correcting the "Ugly"
+In line with the provided feedback to use the fig and ax methods
+
+ Identifying and Resolving Perceptual Issues
+Illustration of a Less Effective Visualization
+Consider this example code which plots sine and cosine functions but falls short in terms of clarity
+Issues: - The overlapping lines make it difficult to differentiate between the sine and cosine functions. - The absence of axis labels and a grid leaves the viewer lacking contextual understanding.
+
+How to Improve
+To address these issues and enhance the visualization
+
+Correcting Mathematical Inaccuracies
+Example of an Inaccurate Figure
+Problematic Visualization Example:
+To illustrate the issue of a mathematical inaccuracy in data visualization
+ssue Identified: - This plot incorrectly suggests a linear relationship rather than the intended non-linear (e.g., sine wave) relation, leading to misinterpretation.
+
+Correcting the Inaccuracy
+To address the problem and accurately represent a non-linear relationship such as a sine wave, the corrected code below effectively demonstrates the accurate mathematical relationship
